@@ -1,0 +1,6 @@
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_9\Lab_9\lab_9\bin\Debug\lab_9.exe.config
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_9\Lab_9\lab_9\bin\Debug\lab_9.exe
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_9\Lab_9\lab_9\bin\Debug\lab_9.pdb
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_9\Lab_9\lab_9\obj\Debug\lab_9.csprojAssemblyReference.cache
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_9\Lab_9\lab_9\obj\Debug\lab_9.exe
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_9\Lab_9\lab_9\obj\Debug\lab_9.pdb
